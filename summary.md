@@ -1,7 +1,7 @@
 Table of Contents
 
-* [Introduction]
-* [Design History]
-* [Typography]
-* [Grids]
-* [Color Theory]
+* [Introduction](README.md)
+* [Design History](history.md)
+* [Typography](type.md)
+* [Grids](grids.md)
+* [Color Theory](color.md)
