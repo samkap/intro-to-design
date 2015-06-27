@@ -1,4 +1,4 @@
-# Typography
+# Color Theory
 
 Ask most web designers and they'll agree with the old web design quote "95% of web design is typography". It _is_ that important in web design
 
