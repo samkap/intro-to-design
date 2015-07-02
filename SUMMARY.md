@@ -1,4 +1,4 @@
-Table of Contents
+# Summary
 
 * [Introduction](README.md)
 * [Design History](history.md)
@@ -6,3 +6,5 @@ Table of Contents
 * [Grids](grids.md)
 * [Color Theory](color.md)
 * [Principles of good design](gooddesign.md)
+* Resources
+
