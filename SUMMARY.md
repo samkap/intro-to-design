@@ -6,5 +6,5 @@
 * [Grids](grids.md)
 * [Color Theory](color.md)
 * [Principles of good design](gooddesign.md)
-* [Resources](resources.md)
+* [Content Management Systems](contentmanagement.md)
 
