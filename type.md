@@ -32,3 +32,8 @@ Centering type is for short lines, headlines, or French restaurant menus. If you
 * **Check out Practical Typography's suggestions** <br>
 [Buttrick's Practical Typography](http://practicaltypography.com/summary-of-key-rules.html) is a GREAT place to learn more about type.
 
+
+
+### Making Font files
+* [FontStruct](http://fontstruct.com/)
+* 
