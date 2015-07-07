@@ -8,5 +8,5 @@
 * [Principles of good design](gooddesign.md)
 * [Content Management Systems](contentmanagement.md)
 * [Design Workflow](design_workflow.md)
-* Summer Reading List
+* [Summer Reading List](summer_reading_list.md)
 
