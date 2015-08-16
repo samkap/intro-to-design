@@ -9,4 +9,5 @@
 * [Content Management Systems](contentmanagement.md)
 * [Design Workflow](design_workflow.md)
 * [Summer Reading List](summer_reading_list.md)
+* Brand Identity and Logo Design
 
