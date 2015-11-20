@@ -11,4 +11,5 @@
 * [Summer Reading List](summer_reading_list.md)
 * [Brand Identity and Logo Design](brand_identity_logo_design.md)
 * [Web Design](web_design.md)
+   * Design Jobs
 
